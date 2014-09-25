@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/home/edson/Documentos/Projetos/am/.metadata/.plugins/org.eclipse.jdt.core
+2858358788.index
+1416184543.index
+367039797.index
+3277351139.index
